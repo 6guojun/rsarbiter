@@ -11,7 +11,7 @@ Pandas = “*”
 
 [requires]
 <<<<<<< HEAD
-python_version = “3.7”
+python_version = “3.8.2”
 =======
-python_version = “3.7”
+python_version = “3.8.2”
 >>>>>>> d130262b5f8ba31aaaf1434ba8f72dae802adaef
